@@ -13,6 +13,6 @@ c) Cut the video so that it seems like a gif, but keep the extension to .mp4<br>
 d) Update playerDev.js, with the first 3 numbers you can choose where the guy will be displayed
 ##Credits
 - [MineRender](https://minerender.org/) for 3d animation skin 
-- [W3Schhol](https://www.w3schools.com/) for some css things
+- [W3Schools](https://www.w3schools.com/) for some css things
 - [BootStrap](https://getbootstrap.com/) for the graphic library
 For contacts: TechAle#4773
